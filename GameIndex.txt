@@ -1508,7 +1508,7 @@ Region = PAL-M5
 Compat = 5
 ---------------------------------------------
 Serial = SCES-50917
-Name   = Sly Racoon
+Name   = Sly Raccoon
 Region = PAL-M5
 ---------------------------------------------
 Serial = SCES-50928
@@ -2935,7 +2935,7 @@ Name   = Magna Carta
 Region = NTSC-K
 ---------------------------------------------
 Serial = SCKA-20044
-Name   = Sly Cooper 2 Band of Thieves
+Name   = Sly Cooper 2: Band of Thieves
 Region = NTSC-K
 Compat = 5
 ---------------------------------------------
@@ -3014,7 +3014,7 @@ Name   = Ape Escape 3
 Region = NTSC-K
 ---------------------------------------------
 Serial = SCKA-20063
-Name   = Sly Cooper 3 Honor Among Thieves
+Name   = Sly Cooper 3: Honor Among Thieves
 Region = NTSC-K
 Compat = 5
 ---------------------------------------------
@@ -5199,7 +5199,7 @@ Name   = NCAA GameBreaker 2004 [Demo]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97316
-Name   = Sly 2 - Band of Thieves
+Name   = Sly 2: Band of Thieves
 Region = NTSC-U
 Compat = 5
 ---------------------------------------------
@@ -5509,7 +5509,7 @@ Region = NTSC-U
 Compat = 2
 ---------------------------------------------
 Serial = SCUS-97415
-Name   = Sly 2 - Band of Thieves [E3 Demo]
+Name   = Sly 2: Band of Thieves [E3 Demo]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97416
@@ -5668,7 +5668,7 @@ Name   = PlayStation Underground Holiday 2004 [T-Rated]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97457
-Name   = Sly 2 - Band of Thieves [Retail Demo]
+Name   = Sly 2: Band of Thieves [Retail Demo]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97460
@@ -5685,7 +5685,7 @@ Region = NTSC-U
 Compat = 5
 ---------------------------------------------
 Serial = SCUS-97464
-Name   = Sly 3 - Honor Amongst Thieves
+Name   = Sly 3: Honor Among Thieves
 Region = NTSC-U
 Compat = 5
 vuClampMode = 2 // Fixes bugged camera.
@@ -5757,7 +5757,7 @@ Name   = God of War II - The Colossus Battle [Demo]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97484
-Name   = Sly 3 - Honor Among Thieves [E3 Demo]
+Name   = Sly 3: Honor Among Thieves [E3 Demo]
 Region = NTSC-U
 vuClampMode = 2 // Fixes bugged camera.
 vuRoundMode = 0 // Fixes game engine issue with bombs and ladders.
@@ -5901,7 +5901,7 @@ Name   = Ratchet & Clank - Up Your Arsenal [Greatest Hits]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97519
-Name   = Sly 2 - Band of Thieves [Greatest Hits]
+Name   = Sly 2: Band of Thieves [Greatest Hits]
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97520
@@ -5913,7 +5913,7 @@ Name   = EyeToy - Operation Spy!
 Region = NTSC-U
 ---------------------------------------------
 Serial = SCUS-97527
-Name   = Sly 3 - Honor Among Thieves [Regular Demo]
+Name   = Sly 3: Honor Among Thieves [Regular Demo]
 Region = NTSC-U
 vuClampMode = 2 // Fixes bugged camera.
 vuRoundMode = 0 // Fixes game engine issue with bombs and ladders.
